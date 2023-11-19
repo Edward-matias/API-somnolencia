@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-8n**hb5f!=(+o*moeo-e$2t0c31(&d@953kqyajf&ltj2^wi-u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['api-somnolencia.onrender.com']
 
 AUTH_USER_MODEL = "usuario.User"
 
