@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     "vehiculo",
     "deteccion"
 ]
+MIGRATION_MODULES = {}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
