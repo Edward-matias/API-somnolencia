@@ -30,6 +30,9 @@ ALLOWED_HOSTS = ['api-somnolencia.onrender.com']
 
 AUTH_USER_MODEL = "usuario.User"
 
+MIGRATION_MODULES = {}
+
+
 # Application definition
 
 INSTALLED_APPS = [
