@@ -91,7 +91,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  # Motor de base de datos MySQL
         'NAME': 'bhzyzlrzxgsomrclupzw',           # Nombre de tu base de datos en Clever Cloud
         'USER': 'u04wvhvmvxkewqsf',          # Usuario de tu base de datos MySQL
-        'PASSWORD': 'u04wvhvmvxkewqsf',         # Contraseña de tu usuario MySQL
+        'PASSWORD': '4l5IacXvJs9EvR3t3WUd',         # Contraseña de tu usuario MySQL
         'HOST': 'bhzyzlrzxgsomrclupzw-mysql.services.clever-cloud.com', # Host de la base de datos MySQL en Clever Cloud
         'PORT': '3306',                 # Puerto de la base de datos MySQL
     }
