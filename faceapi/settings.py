@@ -93,10 +93,10 @@ WSGI_APPLICATION = 'faceapi.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',  # Motor de base de datos MySQL
-        'NAME': 'bybtairt3w5sz3v4txih',           # Nombre de tu base de datos en Clever Cloud
-        'USER': 'uhgrhohzirla6vid',          # Usuario de tu base de datos MySQL
-        'PASSWORD': 'VgwkWUEjG8RNrZbBqwEa',         # Contraseña de tu usuario MySQL
-        'HOST': 'bybtairt3w5sz3v4txih-mysql.services.clever-cloud.com', # Host de la base de datos MySQL en Clever Cloud
+        'NAME': 'bhzyzlrzxgsomrclupzw',           # Nombre de tu base de datos en Clever Cloud
+        'USER': 'u04wvhvmvxkewqsf',          # Usuario de tu base de datos MySQL
+        'PASSWORD': '4l5IacXvJs9EvR3t3WUd',         # Contraseña de tu usuario MySQL
+        'HOST': 'bhzyzlrzxgsomrclupzw-mysql.services.clever-cloud.com', # Host de la base de datos MySQL en Clever Cloud
         'PORT': '3306',                 # Puerto de la base de datos MySQL
     }
 }
